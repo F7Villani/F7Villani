@@ -1,4 +1,5 @@
 ## Oi pessoal! Eu sou o Felipe Villani
+
 - Atualmente estagiário no Itaú Unibanco
 - Estudante de Engenharia da Computação no IMT
 
@@ -11,6 +12,5 @@
 </div>
   
  #
- ### Commits
-  
+ ### Commits  
  ![Snake animation](https://github.com/f7villani/f7villani/blob/output/github-contribution-grid-snake.svg)
