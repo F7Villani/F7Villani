@@ -10,6 +10,8 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - uses: kanga333/comment-hider@v0.3.0
+        name: comment-hider
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
@@ -18,6 +20,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
+  
         with:
           target_branch: output
           build_dir: dist
