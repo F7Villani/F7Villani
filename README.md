@@ -1,6 +1,6 @@
 ## Oi pessoal! Eu sou o Felipe Villani
 
-- Atualmente estagiário no Itaú Unibanco
+- Atualmente no Itaú IBBA
 - Estudante de Engenharia da Computação no IMT
 
 #
