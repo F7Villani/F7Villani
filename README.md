@@ -1,4 +1,4 @@
-<img width="160em" align="right" src="https://github.com/F7Villani/F7Villani/blob/main/F7V%20(Com%20Sombra).png"/>
+<img width="150em" align="right" src="https://github.com/F7Villani/F7Villani/blob/main/F7V%20(Com%20Sombra).png"/>
 
 ## Olá, pessoal! Eu sou o Felipe Villani
 
