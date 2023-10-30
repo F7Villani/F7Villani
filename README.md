@@ -1,8 +1,8 @@
 <img height="180em" src="https://github.com/F7Villani/F7Villani/blob/main/F7V%20(Com%20Sombra).png"/>
 
-## Oi pessoal! Eu sou o Felipe Villani
+## Olá, pessoal! Eu sou o Felipe Villani
 
-- Atualmente no Itaú IBBA
+- Atualmente no Itaú Unibanco
 - Estudante de Engenharia da Computação no IMT
 
 #
