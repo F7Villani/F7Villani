@@ -3,7 +3,7 @@
 ## Olá, pessoal! Eu sou o Felipe Villani
 
 - Atualmente no Itaú Unibanco
-- Estudante de Engenharia da Computação no IMT
+- Formado em Engenharia da Computação pelo IMT
 
 
 #
